@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mitchinson.dev/pillar/june-july-21/</loc>
+    
+    <lastmod>2021-08-01T23:23:43.112Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/Current-Projects/</loc>
+    
+    <lastmod>2021-08-01T23:18:21.228Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mitchinson.dev/vail-march-april-2021/</loc>
     
     <lastmod>2021-05-05T16:26:46.474Z</lastmod>
@@ -9,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Current-Projects/</loc>
+    <loc>https://mitchinson.dev/Photo-Frame/</loc>
     
-    <lastmod>2021-05-05T15:43:42.803Z</lastmod>
+    <lastmod>2021-04-29T03:46:58.222Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Photo-Frame/</loc>
+    <loc>https://mitchinson.dev/Vail-2020/</loc>
     
     <lastmod>2021-04-29T03:46:58.222Z</lastmod>
     
@@ -30,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Vail-2020/</loc>
+    <loc>https://mitchinson.dev/Video-Tag-Demo/index.html</loc>
     
     <lastmod>2021-04-29T03:46:58.222Z</lastmod>
     
@@ -45,13 +59,6 @@
   
   <url>
     <loc>https://mitchinson.dev/all-tags/index.html</loc>
-    
-    <lastmod>2021-04-29T03:46:58.222Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Video-Tag-Demo/index.html</loc>
     
     <lastmod>2021-04-29T03:46:58.222Z</lastmod>
     
@@ -86,14 +93,14 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/If-It-Aint-Broke/</loc>
+    <loc>https://mitchinson.dev/Device-Advice/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Device-Advice/</loc>
+    <loc>https://mitchinson.dev/Embedded-Systems/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
@@ -114,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Software-Design/</loc>
+    <loc>https://mitchinson.dev/Street-Smart/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Embedded-Systems/</loc>
+    <loc>https://mitchinson.dev/If-It-Aint-Broke/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
@@ -135,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Street-Smart/</loc>
+    <loc>https://mitchinson.dev/Software-Design/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
